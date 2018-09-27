@@ -1,0 +1,17 @@
+---
+title: "Kaggle - Google Analytics Customer Ad Revenue Exploratory Data Analysis"
+output:
+  html_notebook:
+    theme: journal
+  html_document:
+    df_print: paged
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r, include = FALSE}
+source("code/lib/packages.r")
+source("code/lib/functions.r")
+```
+
+
